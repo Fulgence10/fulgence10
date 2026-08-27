@@ -14,7 +14,7 @@ Route::get('/brainphp', function() {
 
 ## 🔗 Liens utiles
 
-- 👉🏽 [Site web de Bazoo IT]([https://fulgence10.github.io/app])
+- 👉🏽 [Site web de Bazoo IT](https://fulgence10.github.io/app)
 - 👉🏽 <a href="mailto:yfulgence10@gmail.com">Mon email</a>
 
 
